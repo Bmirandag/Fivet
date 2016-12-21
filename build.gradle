@@ -63,7 +63,7 @@ dependencies {
 }
 
 // RAM disk
-buildDir = "R://${rootProject.name}//${project.name}"
+//buildDir = "R://${rootProject.name}//${project.name}"
 
 /*
 project.compileJava {
